@@ -1,28 +1,25 @@
 ---
 profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+name: "Katrina Prather"
+title: "Web Developer"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Katrina is a recent graduate from General Assembly's Front End Web Development program.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+She currently works as a Benefit Coder in the IT Healthcare industry. Her accomplishments include being recognized by senior coders as a strong coder who learns quickly and can perform. She has also created several tools that provided solutions to problematic areas amongst the team and tools to increase efficiencies. 
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+Katrina is available and actively seeking junior level roles as a developer/engineer. Some of the skills include:
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
+#### Front End Skills
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
 
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
 
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+#### Soft Skills
+* Detail-oriented
+* Problem Solver
+* Leadership
+* Organization
+* Takes initiative
